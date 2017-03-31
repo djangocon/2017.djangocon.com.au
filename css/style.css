@@ -490,7 +490,10 @@ body {
   text-decoration: none;
 }
 
-
+.content { 
+  margin: 100px;
+  text-align: center;
+} 
 
 /* -- Retina Styles -- */
 
