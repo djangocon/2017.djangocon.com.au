@@ -370,6 +370,7 @@ body {
      -moz-transform: scale(1.0667);
       -ms-transform: scale(1.0667);
           transform: scale(1.0667);
+  filter: grayscale(0%);
 }
 
 
